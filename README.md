@@ -4,17 +4,12 @@
 
 ### Software Engineering • AI/ML • Data Science • Data-Driven Systems
 
-Building practical software and intelligent solutions with Python, APIs, databases, and machine learning.
-
 <p>
   <a href="https://www.linkedin.com/in/chinmayid30/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Chinmayi-dev">
-    <img src="https://img.shields.io/badge/GitHub-Chinmayi--dev-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dchinmayi24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -79,79 +74,9 @@ I'm continuously learning new technologies and looking to contribute to meaningf
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🔹 Multi-Modal Sensor Fusion & AI Navigation
-**Python • YOLOv8n • OpenCV • Flask • React.js • OpenStreetMap**
-
-AI-based delivery robot navigation system combining computer vision, GPS, road-network data, and real-time decision-making for route planning and obstacle-aware navigation.
-
-**Highlights:** YOLOv8n • Dijkstra routing • 12 REST APIs • <200 ms SSE latency
-
-🔗 [View Repository](https://github.com/Chinmayi-dev/delivery-robot-navigation)
-
----
-
-### 🔹 Employee Management API
-**Python • Flask • SQLAlchemy • SQLite • JWT**
-
-RESTful backend application for employee management with authentication, CRUD operations, input validation, pagination, search, and structured error handling.
-
-**Highlights:** JWT Authentication • REST APIs • SQLAlchemy • Postman Testing
-
-🔗 [View Repository](https://github.com/Chinmayi-dev/employee-management-api)
-
----
-
-### 🔹 Neural Recommendation Engine
-**Python • PySpark • TensorFlow Recommenders • FastAPI**
-
-Two-tower recommendation system for personalized product retrieval using large-scale transaction and user-item interaction data, with contextual features for improved recommendation relevance.
-
-**Highlights:** 31.7M+ records • 1.59M interactions • 78,388 products • 4× baseline improvement
-
-🔗 [View Repository](https://github.com/Chinmayi-dev/Context-Aware-Recommendation-System)
-
----
-
-### 🔹 Coffee Leaf Disease Detection & Pesticide Recommendation
-**Python • YOLOv8 • Flask • MySQL**
-
-AI-powered application for detecting coffee leaf diseases from images and providing automated pesticide recommendations with model performance visualization.
-
-**Highlights:** 9,009 images • YOLOv8 • Flask • MySQL
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python backend development
-- Machine Learning & Deep Learning
-- Generative AI and LLM applications
-- AI-powered application development
-
----
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**  
-JSS Science and Technology University, Mysuru · 2024–2026 · **8.58 CGPA**
-
-**Bachelor of Computer Applications (BCA)**  
-DVS College of Arts and Science, Shivamogga · 2021–2024 · **8.81 CGPA**
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities involving:
-
-**Software Engineering · AI/ML · Data Science**
-
-If you're working on interesting software or AI problems, I'd be happy to connect and learn from the community.
-
-<div align="center">
-
-Thanks for visiting my profile! 👋
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmayi-dev&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayi-dev&layout=compact&hide_border=true" height="165"/>
+</p>
