@@ -153,7 +153,9 @@ Data-Driven Systems   → Large-Scale Processing • Feature Engineering
 Full-Stack Apps       → Frontend • Backend • APIs • Database Integration
 Engineering           → Testing • Debugging • Problem Solving
 
-🌱 Currently Learning
+```markdown
+
+## 🌱 Currently Learning
 Advanced Python backend development
 Machine Learning & Deep Learning
 Generative AI and LLM applications
@@ -177,6 +179,8 @@ I'm interested in opportunities involving:
 Software Engineering · AI/ML · Data Science
 
 If you're working on interesting software or AI problems, I'd be happy to connect and learn from the community.
+
+```text
 
 <div align="center">
 Thanks for visiting my profile! 👋
