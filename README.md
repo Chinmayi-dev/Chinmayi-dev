@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/chinmayid30/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white&logo=data:image/svg%2Bxml;base64,..." />
   </a>
   <a href="mailto:dchinmayi24@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
