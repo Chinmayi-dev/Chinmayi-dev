@@ -129,19 +129,16 @@ AI-powered application for detecting coffee leaf diseases from images and provid
 - Machine Learning & Deep Learning
 - Generative AI and LLM applications
 - AI-powered application development
-- Backend system design and scalable software development
 
 ---
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
-JSS Science and Technology University, Mysuru  
-2024 – 2026 · **8.58 CGPA**
+JSS Science and Technology University, Mysuru · 2024–2026 · **8.58 CGPA**
 
 **Bachelor of Computer Applications (BCA)**  
-DVS College of Arts and Science, Shivamogga  
-2021 – 2024 · **8.81 CGPA**
+DVS College of Arts and Science, Shivamogga · 2021–2024 · **8.81 CGPA**
 
 ---
 
