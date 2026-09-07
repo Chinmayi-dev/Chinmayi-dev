@@ -47,7 +47,6 @@ I'm continuously learning new technologies and looking to contribute to meaningf
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -64,10 +63,14 @@ I'm continuously learning new technologies and looking to contribute to meaningf
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-### Databases, Testing & Tools
+### Databases
 <p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+### Testing & Tools
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -81,32 +84,20 @@ I'm continuously learning new technologies and looking to contribute to meaningf
 ### 🔹 Multi-Modal Sensor Fusion & AI Navigation
 **Python • YOLOv8n • OpenCV • Flask • React.js • OpenStreetMap**
 
-An AI-based delivery robot navigation system combining computer vision, GPS, road-network data, route planning, and real-time decision-making.
+AI-based delivery robot navigation system combining computer vision, GPS, road-network data, and real-time decision-making for route planning and obstacle-aware navigation.
 
-**Highlights**
-- YOLOv8n-based object detection
-- OpenCV image processing and lane detection
-- Dijkstra-based route planning
-- GPS-video synchronization
-- Flask + React.js dashboard
-- 12 REST APIs
-- Real-time SSE updates
+**Highlights:** YOLOv8n • Dijkstra routing • 12 REST APIs • <200 ms SSE latency
 
 🔗 [View Repository](https://github.com/Chinmayi-dev/delivery-robot-navigation)
 
 ---
 
 ### 🔹 Employee Management API
-**Python • Flask • SQLAlchemy • SQLite • JWT • REST APIs**
+**Python • Flask • SQLAlchemy • SQLite • JWT**
 
-A RESTful backend application for employee management with authentication, CRUD operations, input validation, pagination, search, structured error handling, and API testing.
+RESTful backend application for employee management with authentication, CRUD operations, input validation, pagination, search, and structured error handling.
 
-**Highlights**
-- JWT-based authentication
-- CRUD operations
-- Input validation and error handling
-- Pagination and search
-- Postman API testing
+**Highlights:** JWT Authentication • REST APIs • SQLAlchemy • Postman Testing
 
 🔗 [View Repository](https://github.com/Chinmayi-dev/employee-management-api)
 
@@ -115,73 +106,55 @@ A RESTful backend application for employee management with authentication, CRUD 
 ### 🔹 Neural Recommendation Engine
 **Python • PySpark • TensorFlow Recommenders • FastAPI**
 
-A two-tower recommendation system designed for personalized product retrieval using large-scale transaction and user-item interaction data.
+Two-tower recommendation system for personalized product retrieval using large-scale transaction and user-item interaction data, with contextual features for improved recommendation relevance.
 
-**Highlights**
-- 31.7M+ transaction records
-- 1.59M user-item interactions
-- 78,388 products
-- Contextual feature engineering
-- FactorizedTopK Recall@100 evaluation
-- FastAPI recommendation serving
+**Highlights:** 31.7M+ records • 1.59M interactions • 78,388 products • 4× baseline improvement
 
 🔗 [View Repository](https://github.com/Chinmayi-dev/Context-Aware-Recommendation-System)
 
 ---
 
 ### 🔹 Coffee Leaf Disease Detection & Pesticide Recommendation
-**Python • YOLOv8 • Flask • MySQL • JavaScript**
+**Python • YOLOv8 • Flask • MySQL**
 
-An AI-powered application for coffee leaf disease detection with automated pesticide recommendations and a model validation dashboard.
+AI-powered application for detecting coffee leaf diseases from images and providing automated pesticide recommendations with model performance visualization.
 
-**Highlights**
-- 9,009-image dataset
-- YOLOv8 model training and evaluation
-- Disease prediction
-- Pesticide recommendations
-- Authentication and scan history
-- Flask + MySQL integration
+**Highlights:** 9,009 images • YOLOv8 • Flask • MySQL
 
 ---
 
-## 📊 What I Enjoy Building
-
-```text
-Backend Systems       → REST APIs • Authentication • Databases
-AI / ML Applications  → Computer Vision • Deep Learning • Recommendations
-Data-Driven Systems   → Large-Scale Processing • Feature Engineering
-Full-Stack Apps       → Frontend • Backend • APIs • Database Integration
-Engineering           → Testing • Debugging • Problem Solving
-
-```markdown
-
 ## 🌱 Currently Learning
-Advanced Python backend development
-Machine Learning & Deep Learning
-Generative AI and LLM applications
-AI-powered application development
-Backend system design and scalable software development
 
-🎓 Education
+- Advanced Python backend development
+- Machine Learning & Deep Learning
+- Generative AI and LLM applications
+- AI-powered application development
+- Backend system design and scalable software development
 
-Master of Computer Applications (MCA)
-JSS Science and Technology University, Mysuru
-2024 – 2026 · 8.58 CGPA
+---
 
-Bachelor of Computer Applications (BCA)
-DVS College of Arts and Science, Shivamogga
-2021 – 2024 · 8.81 CGPA
+## 🎓 Education
 
-🤝 Let's Connect
+**Master of Computer Applications (MCA)**  
+JSS Science and Technology University, Mysuru  
+2024 – 2026 · **8.58 CGPA**
+
+**Bachelor of Computer Applications (BCA)**  
+DVS College of Arts and Science, Shivamogga  
+2021 – 2024 · **8.81 CGPA**
+
+---
+
+## 🤝 Let's Connect
 
 I'm interested in opportunities involving:
 
-Software Engineering · AI/ML · Data Science
+**Software Engineering · AI/ML · Data Science**
 
 If you're working on interesting software or AI problems, I'd be happy to connect and learn from the community.
 
-```text
-
 <div align="center">
+
 Thanks for visiting my profile! 👋
-</div> ```
+
+</div>
