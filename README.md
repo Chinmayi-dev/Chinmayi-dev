@@ -2,7 +2,7 @@
 
 # Hi, I'm Chinmayi D 👋
 
-### Software Engineering • AI/ML • Data Science • Data-Driven Systems
+### Software Development • AI/ML • Data Science • Data-Driven Systems
 
 <p>
   <a href="https://www.linkedin.com/in/chinmayid30/">
